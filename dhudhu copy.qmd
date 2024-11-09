@@ -1,0 +1,17 @@
+---
+title: "About Me"
+date: 2024-10-26
+format: html
+editor: visual
+draft: false
+---
+
+I am a first-year ScM Biostatistics student at the Johns Hopkins Bloomberg School of Public Health. I did my undergraduate at UC Berkeley in environmental science and public health. I am passionate about solving environmental health and climate health issues through a biostatistical lens and also hope to do work in carceral health. I prioritize working with communities to tailor my research to local needs. My **short-term goals** are to pursue a PhD in environmental health after my master’s, and my **long-term goals** are in academia training future climate health researchers and developing my aforementioned research. I believe that two of the most important aspects of creating a safe future for humanity are achieving **health equity** and accessibility for better quality of life, as well as **alleviating climate change** for a sustainable way of life.
+
+I have done research in the **Wang, Schell, and Ruhi labs** at UC Berkeley on Aegean wall lizards, San Francisco gentrification's impact on bird populations, and invertebrates in intermittent streams. I also interned with the **CalEPA** Office of Environmental Health Hazard Assessment to develop accessible two-pagers on the impacts of climate change and create environmental health lesson plans for 3rd - 5th graders in the Bay Area. At UC Berkeley, I was also the co-president of the **Environmental Health Alliance** and on the board of Herbicide-Free Berkeley. Currently, I am working with the **Green and Healthy Homes Initiative** in Baltimore to bridge the gap between the Inflation Reduction Act and local access to solar energy.
+
+For fun I like to do jigsaw puzzles, paint, go on hikes, bake, and spend time with my friends. I was born in North Carolina and grew up in Eugene, Oregon.
+
+**Publications**
+Throat color polymorphism is related to differences in aggression in the Aegean wall lizard: 
+https://www.biorxiv.org/content/10.1101/2024.03.14.585063v1
