@@ -1,0 +1,12 @@
+---
+title: "Home"
+date: 2024-10-26
+format: html
+editor: visual
+draft: false
+---
+My name is Dhruthi Mandavilli, and I am a first-year **ScM Biostatistics** student at the Johns Hopkins Bloomberg School of Public Health. I completed my BS in Environmental Science and BA in Public Health at UC Berkeley. 
+
+I am passionate about solving **climate health** and environmental health issues through a biostatistical lens and also hope to do work in carceral health while prioritizing working with local communities.
+ 
+![I love herps: like this snake I caught during fieldwork in Greece!](snake.png){width=50% fig-align="left"}
